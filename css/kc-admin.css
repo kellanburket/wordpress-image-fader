@@ -1,0 +1,73 @@
+.featured-product-image, .featured-product-checkbox {
+	width: 200px;
+	height: auto;
+	display: inline-block;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.tier-1-taxonomy-ul {
+	margin-left: 0;
+}
+.tier-1-taxonomy-li {
+}
+.tier-2-taxonomy-ul {
+	margin-left: 20px;
+}
+.tier-2-taxonomy-li {
+}
+.tier-3-taxonomy-ul {
+	margin-left: 40px;
+}
+.tier-3-taxonomy-li {
+}
+
+.swatch {
+	width: 100px;
+	height: 100px;
+}
+
+textarea {
+	width: 60%;
+	height: 25px;
+}
+
+.featured-image-wrap {
+	width: 210px;
+	height: auto;
+	border: 1px solid gray;
+	display: inline-block;
+	position: relative;
+}
+.submit-metadata {
+	float: right;
+	clear: both;
+}
+
+.featured-x-mark {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 25;
+	width: 25px;
+	height: 25px;
+	padding: 10px 10px;
+	cursor: pointer;
+}
+
+.product-specs-input {
+	width:75%;
+}
+
+.metadata-li {
+	position: relative;	
+}
+
+.inside {
+	position: relative;
+	overflow: auto;
+}
+
+.submit-metadata {
+	position: relative;
+}
